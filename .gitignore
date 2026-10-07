@@ -1,0 +1,8 @@
+
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+dota2_dump/offsets_diff.txt
